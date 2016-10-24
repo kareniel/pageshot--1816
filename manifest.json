@@ -1,0 +1,15 @@
+{
+    "name": "pageshot-#1816",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "pageshot-#1816"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
